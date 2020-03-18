@@ -4,4 +4,4 @@ Merhabalar, bu videoda React Native ile Twitter üzerinde gördüğüm cihaz saa
 
 Benzeri içerikler görmek isterseniz, yorum olarak video önerisinde bulunabilirsiniz.
 
-[![Video](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=yfHBjKvD5_c)
+[![Video](https://img.youtube.com/vi/yfHBjKvD5_c/maxresdefault.jpg)](https://www.youtube.com/watch?v=VID)

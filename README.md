@@ -5,5 +5,3 @@ Merhabalar, bu videoda React Native ile Twitter üzerinde gördüğüm cihaz saa
 Benzeri içerikler görmek isterseniz, yorum olarak video önerisinde bulunabilirsiniz.
 
 YouTube Video: https://www.youtube.com/watch?v=yfHBjKvD5_c
-
-![Video](https://img.youtube.com/vi/yfHBjKvD5_c/maxresdefault.jpg)
